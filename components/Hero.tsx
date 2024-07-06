@@ -31,9 +31,10 @@ const Hero = () => {
             className="rounded-full mb-7 md:mb-3"
             width={180}
             height={180}
+            priority
           />
           <p className='text-center md:tracking-wider mb-3 font-bold text-sm md:text-lg lg:text-xl'>
-            I&apos;m Miracle, <span className='text-red-600'><Typewriter /></span> based in Russia.
+            I&apos;m Miracle, a <Typewriter /> based in Russia.
           </p>
           <a href="#about" title='Show my Work'>
             <MagicButton

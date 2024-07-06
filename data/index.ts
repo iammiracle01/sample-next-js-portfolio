@@ -79,6 +79,7 @@ export const navItems = [
     "Tailwind",
     "React.js",
     "Next.js",
+    "Vite",
     "Material UI",
     "NodeJS",
     "ExpressJS",
@@ -88,10 +89,13 @@ export const navItems = [
     "PostgreSQL",
     "Flask",
     "Django",
+    "SQLite",
     "Excel",
     "Data Science",
     "GIT",
     "API",
+    "Figma",
+    "Agile"
   ];
 
   export const projects = [
