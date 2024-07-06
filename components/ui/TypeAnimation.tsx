@@ -10,7 +10,7 @@ const Typewriter = () => {
         500,
         "Student",
         1500,
-        "UI Designer",
+        "UI/UX Designer",
         1500,
         "Web Developer",
         500,
@@ -19,6 +19,9 @@ const Typewriter = () => {
       speed={40}
       cursor={true}
       repeat={Infinity}
+      style={{
+        color: 'red',
+      }}
     />
   );
 };
