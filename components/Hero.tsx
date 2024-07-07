@@ -5,6 +5,7 @@ import { Spotlight } from './ui/Spotlight'
 import { TextGenerateEffect } from './ui/TextGenerateEffect'
 import myPicture from '../public/myPicture.jpg'
 import Typewriter from './ui/TypeAnimation'
+import { Button } from "./ui/MovingBorders";
 
 const Hero = () => {
   return (
@@ -25,15 +26,25 @@ const Hero = () => {
             Dynamic Portfolio with Next.js
           </h2>
           <TextGenerateEffect className='text-center text-[32px] md:text-4xl lg:text-5xl m-3' words='Transforming Concepts into Seamless Experiences' />
+          <div className='mb-3'>
+          <Button
+            borderRadius="50%"
+            className='backdrop-blur-md bg-transparent'
+            borderClassName='bg-[conic-gradient(from_90deg_at_50%_50%,#E2CBFF_0%,#393BB2_50%,#E2CBFF_100%)]'
+            >
           <Image
             src={myPicture}
             alt="Miracle"
-            className="rounded-full mb-7 md:mb-3"
+            className="rounded-full p-1"
             width={180}
             height={180}
             priority
           />
-          <p className='text-center md:tracking-wider mb-3 font-bold text-sm md:text-lg lg:text-xl'>
+          </Button>
+          </div>
+
+
+          <p className='text-center md:tracking-wider mb-3 text-sm md:text-lg lg:text-xl'>
             I&apos;m Miracle, a <Typewriter /> based in Russia.
           </p>
           <a href="#about" title='Show my Work'>
