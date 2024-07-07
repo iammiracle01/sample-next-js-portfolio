@@ -5,7 +5,7 @@ import { projects } from "@/data";
 import { PinContainer } from "./ui/3d-pin";
 const RecentProjects = () => {
   return (
-    <div className="py-15">
+    <div className="py-15" id='projects'>
       <h1 className="heading">
        My{" "}
         <span className="text-purple">recent projects</span>
