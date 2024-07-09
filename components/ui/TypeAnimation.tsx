@@ -8,14 +8,12 @@ const Typewriter = () => {
       preRenderFirstString={true}
       sequence={[
         500,
-        "Student",
-        1500,
         "UI/UX Designer",
         1500,
         "Web Developer",
         500,
       ]}
-      wrapper="span"
+      wrapper="strong"
       speed={40}
       cursor={true}
       repeat={Infinity}
