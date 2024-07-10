@@ -18,6 +18,7 @@
     "mini-svg-data-uri": "^1.4.4",
     "next": "14.2.4",
     "next-themes": "^0.3.0",
+    "nodemailer": "^6.9.14",
     "react": "^18",
     "react-dom": "^18",
     "react-icons": "^5.2.1",
