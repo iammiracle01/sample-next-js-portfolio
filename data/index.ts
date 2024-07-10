@@ -222,7 +222,7 @@ export const navItems = [
       id: 3,
       title: "Freelance App Dev Project",
       desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
-      className: "md:col-span-2", // change to md:col-span-2
+      className: "md:col-span-2",
       thumbnail: "/exp3.svg",
     },
     {
@@ -238,16 +238,49 @@ export const navItems = [
     {
       id: 1,
       img: "/git.svg",
-      des: 'Github'
+      des: 'Github',
+      link: "https://github.com/iammiracle01",
     },
     {
       id: 2,
       img: "/twit.svg",
+      link: "https://twitter.com/iammiracle_01",
       des:'Twitter (X)'
     },
     {
       id: 3,
-      img: "/link.svg",
-      des: 'link'
+      img: "/tg.svg",
+      des: 'Telegram',
+      link: "https://t.me/miracleFash",
     },
-  ];
+    {
+      id: 4,
+      img: "/wha.svg",
+      des: 'Whatsapp',
+      link: "https://wa.me/+79964724028",
+    },
+    {
+      id: 5,
+      img: "/link.svg",
+      des: 'linkedin',
+      link: "https://www.linkedin.com/in/fasuyi-miracle/",
+    },
+];
+
+export const contactDetails = [
+  {
+    icon: "/email.svg",
+    text: "mbo_seyifash@yahoo.com",
+    link: "mailto:mbo_seyifash@yahoo.com",
+  },
+  {
+    icon: '/phone.svg',
+    text: "+7 996 472-40-28",
+    link: "tel:+79964724028",
+  },
+  {
+    icon: "/location.svg",
+    text: "20a Tatishcheva Street, Astrakhan Oblast, Astrakhan",
+    link: "https://maps.google.com/?q=Tatishcheva St, 20а, Astrakhan",
+  },
+];
