@@ -6,7 +6,6 @@ import { Spotlight } from './ui/Spotlight';
 import myPicture from '../public/myPicture.jpg';
 import Typewriter from './ui/TypeAnimation';
 import { Button } from "./ui/MovingBorders";
-import { socialMedia } from '@/data';
 
 const Hero = () => {
   return (
@@ -30,21 +29,23 @@ const Hero = () => {
             <p className='font-mono antialiased mb-4 font-semibold text-xl md:text-2xl lg:text-3xl'> <Typewriter />
             </p>
             <p className='text-white/80 leading-relaxed font-normal font-serif text-center lg:text-left tracking-wider mb-3 text-base'>
-              My professional experience encompasses a wide range of subjects, with a strong emphasis on front-end development. I predominantly utilize tools such as React, Next.js, and TypeScript. I also have expertise in other front-end technologies including Vue, Nuxt, and Svelte, Vite, as well as proficiency in CSS, Sass, and Tailwind CSS for styling. My experience includes modern state management libraries like Redux, Zustand, and Recoil.
+            Welcome to my portfolio! As a versatile professional in the digital realm, I wear multiple hats with skills as a Web Developer, UI/UX Designer, and Freelancer. I have a passion for crafting engaging user experiences and building robust, innovative web solutions, I thrive on bringing creativity and functionality together. Explore my work and discover how I blend technical prowess with a keen eye for design to create impactful digital experiences.
             </p>
             <div className='flex flex-wrap lg:items-start items-center mt-5 justify-center gap-4'>
                 <a href="#about" title='About me'>
                   <MagicButton
                     title="About me"
                     icon={<IoMdInformationCircleOutline />}
-                    position='right'
+                  position='right'
+                  otherClasses="transform active:scale-105 transition-colors transition-transform duration-150"
                   />
                 </a>
                 <a href="/resume.pdf" download title='Download Resume'>
                   <MagicButton
-                    title="Download Resume"
+                    title="View Resume"
                     icon={<FiDownload />}
-                    position='right'
+                  position='right'
+                  otherClasses="transform active:scale-105 transition-colors transition-transform duration-150"
                   />
                 </a>
               </div>

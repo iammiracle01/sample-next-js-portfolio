@@ -6,7 +6,7 @@ const Clients = () => {
   return (
     <div className="py-16" id="testimonials">
       <h1 className="heading">
-        Testimonials from <span className="text-purple"> satisfied clients</span>
+        Testimonials from <span className="text-purple">clients</span>
       </h1>
       <div className="flex flex-col items-center mt-12">
         <InfiniteMovingCards

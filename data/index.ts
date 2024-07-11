@@ -58,7 +58,7 @@ export const navItems = [
     },
     {
       id: 6,
-      title: "Do you want to start a project together?",
+      title: "Let's Kickstart Your Next Project Together",
       description: "",
       className: "lg:col-span-2 md:col-span-3 md:row-span-3",
       imgClassName: "",
@@ -77,29 +77,29 @@ export const navItems = [
     "SASS",
     "Bootstrap",
     "Tailwind",
+    "Chakra UI",
     "React.js",
     "Next.js",
     "Vite",
     "Material UI",
+    "React UI",
+    "Shadcn UI",
+    'Next UI',
     "NodeJS",
     "ExpressJS",
     "MongoDB",
-    "SQL",
     "MySQL",
     "PostgreSQL",
     "Flask",
     "Django",
     "SQLite",
-    "Excel",
-    "Data Science",
     "GIT",
     "API",
     "Github",
     "Sentry",
     "Docker",
-    "Linux",
     "Figma",
-    "Agile"
+    "UI/UX"
   ];
 
   export const projects = [

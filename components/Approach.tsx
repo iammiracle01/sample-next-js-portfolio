@@ -13,22 +13,18 @@ const Approach = () => {
 
       <div className="my-16 flex flex-col lg:flex-row items-center justify-center w-full gap-4">
         <Card
-          title="Planning & Strategy"
-          icon={<AceternityIcon order="Phase 1" />}
-          description="We'll collaborate to map out your website's goals, target audience,
-                  and key functionalities. We'll discuss things like site structure,
-                  navigation, and content requirements.">
+           title="Strategic Planning & Initial Setup"
+           icon={<AceternityIcon order="Phase 1" />}
+           description="Together, we'll define your website's objectives, target audience, and key functionalities. We'll cover site structure, navigation, and content requirements to lay a strong foundation.">
           <CanvasRevealEffect
             animationSpeed={5.1}
             containerClassName="bg-emerald-900"
           />
         </Card>
         <Card
-          title="Development & Progress Update"
-          icon={<AceternityIcon order="Phase 2" />}
-          description="Once we agree on the plan, I cue my lofi playlist and dive into
-          coding. From initial sketches to polished code, I keep you updated
-          every step of the way.">
+           title="Ongoing Development & Progress Updates"
+           icon={<AceternityIcon order="Phase 2" />}
+           description="After finalizing the plan, I dive into development, keeping you updated throughout. From initial sketches to refined code, you’ll be informed every step of the way.">
           <CanvasRevealEffect
             animationSpeed={3}
             containerClassName="bg-black"
@@ -40,11 +36,9 @@ const Approach = () => {
           />
         </Card>
         <Card
-          title="Development & Launch"
+          title="Final Development & Launch"
           icon={<AceternityIcon order="Phase 3" />}
-          description="This is where the magic happens! Based on the approved descriptionign,
-          I'll translate everything into functional code, building your website
-          from the ground up.">
+          description="This is where your vision comes to life! Using the approved design, I'll build your website from scratch, ensuring everything is functional and ready for launch.">
           <CanvasRevealEffect
             animationSpeed={3}
             containerClassName="bg-sky-600"

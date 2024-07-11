@@ -7,8 +7,8 @@ import { Analytics } from "@vercel/analytics/react"
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Miracle | Next.js Developer Portfolio",
-  description: "Explore my Next.js portfolio featuring advanced web development, dynamic user interfaces, and optimized performance.",
+  title: "Miracle | Portfolio",
+  description: "Explore my portfolio featuring advanced web development, dynamic user interfaces, and optimized performance.",
 };
 
 export default function RootLayout({

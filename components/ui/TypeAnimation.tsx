@@ -8,9 +8,11 @@ const Typewriter = () => {
       preRenderFirstString={true}
       sequence={[
         500,
+        "Web Developer",
+        1500,
         "UI/UX Designer",
         1500,
-        "Web Developer",
+        "Freelancer",
         500,
       ]}
       wrapper="strong"
