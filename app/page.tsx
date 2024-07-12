@@ -3,7 +3,6 @@ import Clients from "@/components/Clients";
 import Experience from "@/components/Experience";
 import Footer from "@/components/Footer";
 import Grid from "@/components/Grid";
-import Header from "@/components/Header";
 import Hero from "@/components/Hero";
 import Projects from "@/components/Projects";
 import { FloatingNav } from "@/components/ui/FloatingNav";
@@ -17,7 +16,6 @@ export default function Home() {
     <main className="relative bg-black-100 flex justify-center items-center overflow-clip flex-col mx-auto sm:px-10 px-5">
       <div className="max-w-7xl w-full">
       <ToastContainer position="top-center" autoClose={3000}/>
-        <Header />
         <FloatingNav navItems={navItems}/>
         <Hero />
         <Grid />
