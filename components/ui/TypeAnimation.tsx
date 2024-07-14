@@ -1,5 +1,4 @@
 "use client";
-import React from "react";
 import { TypeAnimation } from "react-type-animation";
 
 const Typewriter = () => {
