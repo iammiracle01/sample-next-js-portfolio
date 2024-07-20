@@ -3,7 +3,7 @@ import Image from "next/image";
 import { FaLocationArrow } from "react-icons/fa6";
 import { projects } from "@/data";
 import { PinContainer } from "./ui/3d-pin";
-const RecentProjects = () => {
+const Projects = () => {
   return (
     <div className="py-15" id='projects'>
       <h1 className="heading">
@@ -72,4 +72,5 @@ const RecentProjects = () => {
   );
 };
 
-export default RecentProjects;
+
+export default Projects;

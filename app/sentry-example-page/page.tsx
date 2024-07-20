@@ -65,7 +65,7 @@ export default function Page() {
 
         <p>
           Next, look for the error on the{" "}
-          <a href="https://swiftwind.sentry.io/issues/?project=4507557721604096">Issues Page</a>.
+          <a href="https://swiftwind.sentry.io/issues/?project=4507589199659008">Issues Page</a>.
         </p>
         <p style={{ marginTop: "24px" }}>
           For more information, see{" "}

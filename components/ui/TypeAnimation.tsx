@@ -1,5 +1,4 @@
 "use client";
-import React from "react";
 import { TypeAnimation } from "react-type-animation";
 
 const Typewriter = () => {
@@ -8,9 +7,11 @@ const Typewriter = () => {
       preRenderFirstString={true}
       sequence={[
         500,
+        "Web Developer",
+        1500,
         "UI/UX Designer",
         1500,
-        "Web Developer",
+        "Freelancer",
         500,
       ]}
       wrapper="strong"
