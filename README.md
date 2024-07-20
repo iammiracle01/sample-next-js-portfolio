@@ -1,6 +1,6 @@
 # Sample Portfolio
 
-![Sample Portfolio](https://github.com/iammiracle01/portfolio/blob/main/preview.png?raw=true)
+![Sample Portfolio](https://github.com/iammiracle01/sample_portfolio/blob/master/preview.jpg?raw=true)
 
 This is a sample portfolio website built with Next.js, Tailwind CSS, and Framer Motion.
 
