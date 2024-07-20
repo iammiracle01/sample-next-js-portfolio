@@ -2,7 +2,7 @@
 
 ![Sample Portfolio](https://github.com/iammiracle01/sample_portfolio/blob/master/preview.jpeg?raw=true)
 
-This is a sample portfolio website built with Next.js, Tailwind CSS, and Framer Motion.
+This is a sample portfolio website built with Next.js, Tailwind CSS, Typescript, React, Nodemailer, Aceternity UI and Framer Motion.
 
 ## Live Demo
 
