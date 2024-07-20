@@ -22,6 +22,8 @@ You can check out the live demo at [https://sample-nextjs-portfolio.vercel.app/]
 
 - Next.js
 - Tailwind CSS
+- Typescript
+- React
 - Framer Motion
 - Nodemailer
 - Sentry
