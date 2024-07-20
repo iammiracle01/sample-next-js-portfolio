@@ -109,7 +109,7 @@ export const navItems = [
       des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
       img: "/p1.svg",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-      link: "https://github.com/adrianhajdin?tab=repositories",
+      link: "https://github.com/iammiracle01",
     },
     {
       id: 2,
@@ -117,7 +117,7 @@ export const navItems = [
       des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
       img: "/p2.svg",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-      link: "https://github.com/adrianhajdin/zoom-clone",
+      link: "https://github.com/iammiracle01",
     },
     {
       id: 3,
@@ -125,7 +125,7 @@ export const navItems = [
       des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
       img: "/p3.svg",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-      link: "https://github.com/adrianhajdin/ai_saas_app",
+      link: "https://github.com/iammiracle01",
     },
     {
       id: 4,
@@ -133,40 +133,40 @@ export const navItems = [
       des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects.",
       img: "/p4.svg",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-      link: "https://github.com/adrianhajdin/iphone",
+      link: "https://github.com/iammiracle01",
     },
   ];
 
   export const testimonials = [
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+      "Collaborating with Miracle was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Miracle's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and enhance your brand, Miracle is the ideal partner.",
+    name: "Michael Johnson",
+    title: "Director of AlphaStream Technologies",
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+      "Miracle's technical expertise and creative solutions exceeded our expectations. His ability to understand our needs and translate them into a functional and beautiful website was remarkable. Working with Miracle was a seamless experience.",
+    name: "Sarah Thompson",
+    title: "CEO of InnovateX Solutions",
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+      "Miracle's attention to detail and commitment to quality are unparalleled. He delivered our project ahead of schedule and provided exceptional support throughout. I highly recommend Miracle for any development needs.",
+    name: "James Lee",
+    title: "Product Manager at TechWave Inc.",
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+      "From the initial consultation to the final launch, Miracle was attentive, knowledgeable, and professional. His innovative approach and dedication to excellence made our project a success. We couldn't be happier with the results.",
+    name: "Emily Davis",
+    title: "Marketing Director at BrightFuture Corp.",
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+      "Miracle is a true professional who combines technical prowess with creative flair. His ability to deliver high-quality work under tight deadlines was impressive. Working with Miracle has been a game-changer for our business.",
+    name: "David Wilson",
+    title: "Founder of NextGen Enterprises",
     },
   ];
 
