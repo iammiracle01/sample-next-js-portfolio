@@ -6,7 +6,7 @@ This is a sample portfolio website built with Next.js, Tailwind CSS, and Framer 
 
 ## Live Demo
 
-You can check out the live demo at [https://sample-portfolio.vercel.app/](https://sample-portfolio.vercel.app/).
+You can check out the live demo at [https://sample-nextjs-portfolio.vercel.app/](https://sample-nextjs-portfolio.vercel.app/).
 
 ## Features
 
